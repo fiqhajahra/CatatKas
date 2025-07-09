@@ -117,8 +117,8 @@ Follow these steps to configure and run the application:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/dhwalief/pojokBuku.git
-cd pojokBuku
+git clone https://github.com/fiqhajahra/CatatKas.git
+cd Catatkas
 ```
 
 #### 2. Install Composer Dependencies
