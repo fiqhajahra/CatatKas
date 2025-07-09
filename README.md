@@ -99,3 +99,64 @@ Relasi:
 ## 📎 Penutup
 
 Dokumentasi ini merangkum perencanaan awal dari aplikasi **CatatKas**. Dengan fitur yang sederhana namun berguna, aplikasi ini sangat cocok untuk individu atau mahasiswa yang ingin mulai belajar mengelola keuangan pribadi. Aplikasi ini juga menjadi contoh implementasi nyata dari framework Laravel dalam pengembangan aplikasi berbasis web.
+
+## Quick Start
+
+### System Requirements
+
+Before setting up the application, ensure your system meets the following requirements:
+
+- **Composer**: latest
+- **PHP**: 8.3.3
+- **Node.js**: 22
+
+###  Installation Guide
+
+Follow these steps to configure and run the application:
+
+#### 1. Clone the Repository
+
+```bash
+git clone https://github.com/dhwalief/pojokBuku.git
+cd pojokBuku
+```
+
+#### 2. Install Composer Dependencies
+
+Install the necessary PHP dependencies using Composer:
+
+```bash
+composer install
+```
+
+#### 3. Configure the Environment File
+
+Copy the example environment file and configure it according to your environment:
+
+```bash
+cp .env.example .env
+```
+
+#### 4. Install Node.js Dependencies
+
+Install the required frontend dependencies using npm:
+
+```bash
+npm install
+```
+
+#### 5. Generate Application Key
+
+Generate a unique application key:
+
+```bash
+php artisan key:generate
+```
+
+#### 6. Build Frontend Assets
+
+For development:
+
+```bash
+npm run dev
+```
