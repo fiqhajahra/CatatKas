@@ -96,10 +96,6 @@ Relasi:
 - Satu user memiliki banyak transaksi (One to Many)
 - Setiap transaksi hanya dimiliki oleh satu user
 
-## 📎 Penutup
-
-Dokumentasi ini merangkum perencanaan awal dari aplikasi **CatatKas**. Dengan fitur yang sederhana namun berguna, aplikasi ini sangat cocok untuk individu atau mahasiswa yang ingin mulai belajar mengelola keuangan pribadi. Aplikasi ini juga menjadi contoh implementasi nyata dari framework Laravel dalam pengembangan aplikasi berbasis web.
-
 ## Quick Start
 
 ### System Requirements
@@ -110,7 +106,7 @@ Before setting up the application, ensure your system meets the following requir
 - **PHP**: 8.3.3
 - **Node.js**: 22
 
-###  Installation Guide
+### Installation Guide
 
 Follow these steps to configure and run the application:
 
@@ -160,3 +156,7 @@ For development:
 ```bash
 npm run dev
 ```
+
+## 📎 Penutup
+
+Dokumentasi ini merangkum perencanaan awal dari aplikasi **CatatKas**. Dengan fitur yang sederhana namun berguna, aplikasi ini sangat cocok untuk individu atau mahasiswa yang ingin mulai belajar mengelola keuangan pribadi. Aplikasi ini juga menjadi contoh implementasi nyata dari framework Laravel dalam pengembangan aplikasi berbasis web.
